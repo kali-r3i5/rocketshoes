@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Gaia - Vetiver, Lima e Alecrim",
       "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://cdn.pixabay.com/photo/2018/04/10/12/26/bottle-3307183_960_720.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Yemanjá - Osmanthus e Camomila alemã",
+      "price": 239.9,
+      "image": "https://cdn.pixabay.com/photo/2017/05/20/13/03/perfume-2328883_960_720.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Cinderela - Lavanda e Aroeira",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://cdn.pixabay.com/photo/2018/02/22/18/08/aromatherapy-3173580__340.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Orchidee - Mirra e Orquídea",
+      "price": 239.9,
+      "image": "https://cdn.pixabay.com/photo/2013/08/18/05/19/perfume-173625_960_720.jpg"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Sunrise - Azaléia gigante e Néroli",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://cdn.pixabay.com/photo/2019/03/19/12/05/essential-oil-4065556_960_720.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Gueixa - Cereja em flor",
+      "price": 279.9,
+      "image": "https://cdn.pixabay.com/photo/2017/12/16/08/57/desktop-3022322_960_720.jpg"
     }
   ]
 }

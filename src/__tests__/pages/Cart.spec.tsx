@@ -17,17 +17,17 @@ describe('Cart Page', () => {
           amount: 1,
           id: 1,
           image:
-            'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg',
+            'https://cdn.pixabay.com/photo/2018/04/10/12/26/bottle-3307183_960_720.jpg',
           price: 179.9,
-          title: 'Tênis de Caminhada Leve Confortável',
+          title: 'Gaia - Vetiver, Lima e Alecrim',
         },
         {
           amount: 2,
           id: 2,
           image:
-            'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg',
+            'https://cdn.pixabay.com/photo/2017/05/20/13/03/perfume-2328883_960_720.jpg',
           price: 139.9,
-          title: 'Tênis VR Caminhada Confortável Detalhes Couro Masculino',
+          title: 'Yemanjá - Osmanthus e Camomila alemã',
         },
       ],
       removeProduct: mockedRemoveProduct,
@@ -65,17 +65,17 @@ describe('Cart Page', () => {
           amount: 2,
           id: 1,
           image:
-            'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg',
+            'https://cdn.pixabay.com/photo/2018/04/10/12/26/bottle-3307183_960_720.jpg',
           price: 179.9,
-          title: 'Tênis de Caminhada Leve Confortável',
+          title: 'Gaia - Vetiver, Lima e Alecrim',
         },
         {
           amount: 1,
           id: 2,
           image:
-            'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg',
+            'https://cdn.pixabay.com/photo/2017/05/20/13/03/perfume-2328883_960_720.jpg',
           price: 139.9,
-          title: 'Tênis VR Caminhada Confortável Detalhes Couro Masculino',
+          title: 'Yemanjá - Osmanthus e Camomila alemã',
         },
       ],
     });
@@ -119,9 +119,9 @@ describe('Cart Page', () => {
           amount: 1,
           id: 2,
           image:
-            'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg',
+            'https://cdn.pixabay.com/photo/2017/05/20/13/03/perfume-2328883_960_720.jpg',
           price: 139.9,
-          title: 'Tênis VR Caminhada Confortável Detalhes Couro Masculino',
+          title: 'Yemanjá - Osmanthus e Camomila alemã',
         },
       ],
     });
