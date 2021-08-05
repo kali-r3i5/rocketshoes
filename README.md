@@ -1,7 +1,5 @@
 # ANTIQUARIUM ⚡️ 
 
-## Landing Styled-Components
-
 ## Features
 
 ⚡️ Modern UI Design\
