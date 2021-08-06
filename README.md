@@ -8,7 +8,8 @@ Pude ver me aprofundar no uso da ContextApi e implementar esse Hook de carrinho,
 
 ⚡️ Modern UI Design\
 ⚡️ Styled with Styled-Components\
-⚡️ Fully Responsive
+⚡️ Fully Responsive\
+⚡️ Typescript
 
 <img src="https://github.com/kali-r3i5/rocketshoes/blob/master/snapshot_kali.jpeg">
 <br />
